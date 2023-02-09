@@ -2,7 +2,40 @@
   margin: 0;
   padding: 0;
  }
+
+ header {
+  background-color: darkkhaki;
+  width: 100%;
+  height: 120px;
+ }
+ h1 {
+  text-align: center;
+ }
+
+ .large-img {
+  margin: -55px 0 0 30px;
+  padding: 20px;
+
+ }
+
+ pre {
+  margin-left: -70px;
+  margin-top: -30px;
+ }
  
+ #git-img {
+  margin-top: -130px;
+ }
+
+.header-nav {
+  background-color: dodgerblue;
+  height: 70px;
+  margin-top: 30px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+
  p {
     color: red;
  }
