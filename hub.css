@@ -65,3 +65,11 @@
 div:last-child {
   background-color: red;
 }
+
+.simple_div_tag {
+  background-color: royalblue
+}
+
+span {
+  color: red;
+}
